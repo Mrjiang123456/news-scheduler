@@ -38,7 +38,7 @@
 ### 步骤 5: 获取 Webhook URL
 1. 完成配置后，点击「完成」
 2. 复制生成的 Webhook URL
-3. URL 格式类似：`https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxxx`
+3. URL 格式类似：`https://open.feishu.cn/open-apis/bot/v2/hook/你的webhook地址`
 
 ## 2. 配置项目环境变量
 
@@ -59,7 +59,7 @@ LARK_BOT_SECRET=你的签名密钥（如果启用了签名校验）
 
 - `LARK_BOT_WEBHOOK_URL`: 飞书机器人的 Webhook URL（必填）
   - 从飞书群机器人设置中获取
-  - 格式：`https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxxx`
+  - 格式：`https://open.feishu.cn/open-apis/bot/v2/hook/你的webhook地址`
 
 - `LARK_BOT_SECRET`: 签名校验密钥（可选，但推荐设置）
   - 如果在创建机器人时启用了签名校验，则必须填写

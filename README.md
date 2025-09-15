@@ -133,9 +133,9 @@ LOG_FILE=logs/scheduler.log
 # 启用飞书机器人
 LARK_BOT_ENABLED=true
 # 设置 Webhook URL
-LARK_BOT_WEBHOOK_URL=https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxxx
+LARK_BOT_WEBHOOK_URL=https://open.feishu.cn/open-apis/bot/v2/hook/你的飞书机器人webhook地址
 # 设置签名密钥（如果启用了签名校验）
-LARK_BOT_SECRET=your_secret_key
+LARK_BOT_SECRET=你的机器人密钥
 ```
 
 #### 3. 详细配置指南

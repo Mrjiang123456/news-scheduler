@@ -142,7 +142,7 @@ export class LarkBotService {
               behaviors: [
                 {
                    type: "open_url",
-                   default_url: "https://newsnow.busiyi.world/",
+                   default_url: "https://你的新闻网站地址.com/",
                    pc_url: "",
                    ios_url: "",
                    android_url: ""
