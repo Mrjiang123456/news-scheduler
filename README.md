@@ -378,6 +378,21 @@ MIT License
 
 欢迎提交 Issue 和 Pull Request！
 
+## 致谢与引用
+
+本项目的新闻数据来源基于 [NewsNow](https://github.com/ourongxing/newsnow) 项目提供的新闻聚合服务。
+
+### 引用信息
+
+- **项目名称**: NewsNow
+- **项目地址**: https://github.com/ourongxing/newsnow
+- **作者**: ourongxing
+- **许可证**: 请参考原项目许可证
+
+感谢 NewsNow 项目为开源社区提供的优秀新闻聚合服务，本项目在其基础上实现了定时推送和飞书机器人集成功能。
+
+如有任何版权或许可证相关问题，请联系项目维护者。
+
 ## 更新日志
 
 ### v1.0.0
