@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  # NewsNow API 服务
+  newsnow-api:
+    build:
+      context: ../newsnow
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - newsnow_data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5173/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # 新闻收集调度服务
+  news-scheduler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      newsnow-api:
+        condition: service_healthy
+    environment:
+      - NODE_ENV=production
+      - NEWSNOW_API_BASE=http://newsnow-api:5173/api
+      # 从 .env 文件加载其他环境变量
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+      - /etc/localtime:/etc/localtime:ro
+    restart: unless-stopped
+    profiles:
+      - scheduler
+
+  # 定时任务服务（使用 cron）
+  news-cron:
+    image: alpine:latest
+    depends_on:
+      - news-scheduler
+    volumes:
+      - ./logs:/app/logs
+      - /etc/localtime:/etc/localtime:ro
+    environment:
+      - CRON_SCHEDULE=0 8 * * *  # 每天8点执行
+    command: >
+      sh -c '
+        apk add --no-cache curl &&
+        echo "$${CRON_SCHEDULE} curl -X POST http://news-scheduler:3000/trigger" > /etc/crontabs/root &&
+        crond -f -l 2
+      '
+    restart: unless-stopped
+    profiles:
+      - cron
+
+volumes:
+  newsnow_data:
+    driver: local
+
+networks:
+  default:
+    name: news-network

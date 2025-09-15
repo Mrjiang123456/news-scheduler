@@ -1,0 +1,17 @@
+[Unit]
+Description=Run News Scheduler daily at 8 AM
+Documentation=https://github.com/your-repo/trae-notice
+Requires=news-scheduler.service
+
+[Timer]
+# 每天上午8点执行
+OnCalendar=*-*-* 08:00:00
+# 如果系统关机错过了执行时间，启动后立即执行
+Persistent=true
+# 随机延迟0-300秒，避免多个服务同时启动
+RandomizedDelaySec=300
+# 如果服务执行失败，1小时后重试
+OnFailure=news-scheduler-retry.timer
+
+[Install]
+WantedBy=timers.target

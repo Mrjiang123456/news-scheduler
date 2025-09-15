@@ -1,0 +1,433 @@
+[2025-09-15T10:05:48.905Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T10:05:48.906Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T10:05:48.906Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T10:05:48.906Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T10:05:48.907Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T10:05:48.907Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T10:05:48.907Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T10:05:48.908Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T10:05:48.908Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"3ms","larkSuccess":false}
+[2025-09-15T11:41:07.701Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:41:07.702Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:41:07.702Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:41:07.703Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:41:07.703Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:41:07.704Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:41:07.704Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:41:07.704Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:41:07.704Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"3ms","larkSuccess":false}
+[2025-09-15T11:44:59.859Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:44:59.860Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:44:59.860Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:44:59.860Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:44:59.861Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:44:59.861Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:44:59.861Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:44:59.861Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:45:06.255Z] [WARN] 富文本消息发送失败，降级为文本消息 {}
+[2025-09-15T11:45:06.872Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:45:06.874Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"7015ms","larkSuccess":true}
+[2025-09-15T11:48:04.784Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:48:04.784Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:48:04.785Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:48:04.785Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:48:04.786Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:48:04.786Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:48:04.786Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:48:04.786Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:48:11.143Z] [WARN] 富文本消息发送失败，降级为文本消息 {}
+[2025-09-15T11:48:11.553Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:48:11.554Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"6770ms","larkSuccess":true}
+[2025-09-15T11:49:12.312Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:49:12.314Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:49:12.314Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:49:12.315Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:49:12.315Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:49:12.315Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:49:12.316Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:49:12.316Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:49:18.807Z] [WARN] 富文本消息发送失败，降级为文本消息 {"error":"飞书API错误: params error, unknown content value","stack":"Error: 飞书API错误: params error, unknown content value\n    at file:///Users/bytedance/trae-notice/news-scheduler/dist/services/lark-bot.js:201:23\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async retry (file:///Users/bytedance/trae-notice/news-scheduler/dist/utils/helpers.js:14:20)\n    at async LarkBotService.sendMessage (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/lark-bot.js:187:16)\n    at async LarkBotService.sendNewsDigest (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/lark-bot.js:36:26)\n    at async NewsScheduler.executeNewsCollection (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:157:30)\n    at async NewsScheduler.executeNow (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:115:16)\n    at async NewsSchedulerApp.executeOnce (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:169:28)\n    at async main (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:193:9)"}
+[2025-09-15T11:49:19.269Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:49:19.270Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"6958ms","larkSuccess":true}
+[2025-09-15T11:51:10.259Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:51:10.260Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:51:10.260Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:51:10.261Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:51:10.261Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:51:10.261Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:51:10.261Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:51:10.262Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:51:11.865Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:51:11.865Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"1606ms","larkSuccess":true}
+[2025-09-15T11:53:33.096Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:53:33.098Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:53:33.098Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:53:33.099Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:53:33.100Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:53:33.100Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:53:33.100Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:53:33.100Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:53:33.659Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:53:33.660Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"564ms","larkSuccess":true}
+[2025-09-15T11:54:00.446Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:54:00.447Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:54:00.447Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:54:00.448Z] [INFO] 新闻收集完成，共收集 7 条，去重后 7 条，最终 7 条
+[2025-09-15T11:54:00.449Z] [INFO] 新闻质量过滤完成，原始 7 条，过滤后 7 条
+[2025-09-15T11:54:00.449Z] [INFO] 新闻去重完成，原始 7 条，去重后 7 条
+[2025-09-15T11:54:00.449Z] [INFO] 开始生成新闻摘要，共 7 条新闻
+[2025-09-15T11:54:00.450Z] [INFO] 新闻摘要生成完成 {"totalCount":7,"topNewsCount":7,"categoriesCount":1}
+[2025-09-15T11:54:01.098Z] [INFO] 新闻摘要发送成功 {"totalNews":7}
+[2025-09-15T11:54:01.098Z] [INFO] 新闻收集任务执行完成 {"newsCount":7,"executionTime":"652ms","larkSuccess":true}
+[2025-09-15T11:58:53.792Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T11:58:53.794Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T11:58:53.794Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T11:58:54.693Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T11:58:54.930Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T11:58:54.930Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T11:58:54.931Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T11:58:54.932Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T11:58:54.933Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":10,"categoriesCount":5}
+[2025-09-15T11:58:55.641Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T11:58:55.657Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1864ms","larkSuccess":true}
+[2025-09-15T12:01:43.532Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:01:43.533Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:01:43.533Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:01:44.071Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:01:44.074Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:01:44.075Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:01:44.076Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:01:44.076Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:01:44.077Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":5}
+[2025-09-15T12:01:44.672Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:01:44.672Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1140ms","larkSuccess":true}
+[2025-09-15T12:04:15.017Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:04:15.018Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:04:15.018Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:04:15.655Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:04:15.656Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:04:15.657Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:04:15.657Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:04:15.657Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:04:15.658Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":5}
+[2025-09-15T12:04:16.415Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:04:16.415Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1398ms","larkSuccess":true}
+[2025-09-15T12:05:46.767Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:05:46.768Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:05:46.768Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:05:47.740Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:05:47.742Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:05:47.743Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:05:47.745Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:05:47.745Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:05:47.747Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":5}
+[2025-09-15T12:05:48.302Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:05:48.302Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1535ms","larkSuccess":true}
+[2025-09-15T12:06:54.851Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:06:54.853Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:06:54.854Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:06:55.392Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:06:55.393Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:06:55.396Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:06:55.396Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:06:55.396Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:06:55.397Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":4}
+[2025-09-15T12:06:56.068Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:06:56.069Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1218ms","larkSuccess":true}
+[2025-09-15T12:07:48.876Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:07:48.879Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:07:48.880Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:07:49.339Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:07:49.341Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:07:49.342Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:07:49.343Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:07:49.343Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:07:49.344Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":8,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":95,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":95,"category":"科技"},{"rank":3,"title":"如何评价小米跳过数字 16 直接发布「小米 17 系列」？...","score":90,"category":"科技"},{"rank":4,"title":"英伟达违反反垄断法，市场监管总局依法决定实施进一步调查，进一步调查意味着什么？会带来怎样的影响？...","score":90,"category":"科技"},{"rank":5,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":90,"category":"科技"}]}
+[2025-09-15T12:07:49.345Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":4}
+[2025-09-15T12:07:49.915Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:07:49.941Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1065ms","larkSuccess":true}
+[2025-09-15T12:18:46.112Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:18:46.115Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:18:46.115Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:18:46.548Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:18:46.551Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:18:46.552Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:18:46.553Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:18:46.553Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:18:46.634Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"做了一个文本转多人有声剧的 AI 工具"}
+[2025-09-15T12:18:46.647Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"ProductHunt 大失败！四小时了 0 票，自己给自己点了投票结果变成-1 票了"}
+[2025-09-15T12:18:46.648Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"如何评价小米跳过数字 16 直接发布「小米 17 系列」？"}
+[2025-09-15T12:18:46.649Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"如何看待「湘超」揭幕战禁止带水进场，场内矿泉水需要 6 元一瓶？"}
+[2025-09-15T12:18:46.673Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集"}
+[2025-09-15T12:18:46.674Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"快下班被我辛勤的同事整无语了"}
+[2025-09-15T12:18:46.713Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？"}
+[2025-09-15T12:18:46.717Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"如果早餐午餐和晚餐必须不吃一餐，最好不吃哪一餐？"}
+[2025-09-15T12:18:46.717Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"英伟达违反反垄断法，市场监管总局依法决定实施进一步调查，进一步调查意味着什么？会带来怎样的影响？"}
+[2025-09-15T12:18:46.733Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"v2er 更新了，好耶😆"}
+[2025-09-15T12:18:46.801Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"2025 年度拉斯克医学奖揭晓"}
+[2025-09-15T12:18:46.802Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"照片显示缅甸电诈园区的面积仍然在扩大"}
+[2025-09-15T12:18:46.803Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"小米米家智能变压 IH 电饭煲 4L 开售：1390W 大功率、0 氟涂层内胆，1999 元"}
+[2025-09-15T12:18:46.803Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"苹果 iOS 26 正式版即将推送，“液态玻璃”设计引争议"}
+[2025-09-15T12:18:46.804Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"13.58 万元起，长城哈弗全新 SUV“哈弗大狗 PLUS”车型正式上市"}
+[2025-09-15T12:18:46.805Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"2025 款创维 EV6 极耀版车型上市：CLTC 续航 430 公里，22.88 万元"}
+[2025-09-15T12:18:46.845Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！"}
+[2025-09-15T12:18:46.846Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"阿联酋发布能与 DeepSeek 竞争的开源模型"}
+[2025-09-15T12:18:46.846Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"失眠组《金刚狼》被曝明年发布，《毒液》衍生游戏随后登场"}
+[2025-09-15T12:18:46.867Z] [ERROR] LLM分析失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized","title":"美国啤酒 95% 含有 PFAS"}
+[2025-09-15T12:18:46.867Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:18:46.868Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":8,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":151.8,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":151.8,"category":"科技"},{"rank":3,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":141.8,"category":"科技"},{"rank":4,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":141.8,"category":"科技"},{"rank":5,"title":"如何评价小米跳过数字 16 直接发布「小米 17 系列」？...","score":141.8,"category":"科技"}]}
+[2025-09-15T12:18:46.972Z] [ERROR] LLM摘要生成失败 {"error":"[POST] \"https://ark.cn-beijing.volces.com/api/v3/chat/completions\": 401 Unauthorized"}
+[2025-09-15T12:18:46.973Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":4}
+[2025-09-15T12:18:47.617Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:18:47.617Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"1505ms","larkSuccess":true}
+[2025-09-15T12:22:45.896Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:22:45.899Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:22:45.900Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:22:47.279Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:22:47.281Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:22:47.282Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:22:47.284Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:22:47.284Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:22:55.062Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:22:55.065Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"苹果 iOS 26 正式版即将推送，“液态玻璃”设计引争议...","score":156.55,"category":"科技"},{"rank":4,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":156.1,"category":"科技"},{"rank":5,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:22:59.468Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:23:00.090Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:23:00.091Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"14195ms","larkSuccess":true}
+[2025-09-15T12:26:37.121Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:26:37.177Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:26:37.178Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:26:37.767Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:26:37.770Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:26:37.771Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:26:37.772Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:26:37.773Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:26:46.045Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:26:46.047Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":12,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"苹果 iOS 26 正式版即将推送，“液态玻璃”设计引争议...","score":156.55,"category":"科技"},{"rank":4,"title":"小米米家智能变压 IH 电饭煲 4L 开售：1390W 大功率、0 氟涂层内胆，1999 元...","score":154.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:26:49.822Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":4}
+[2025-09-15T12:26:50.399Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:26:50.400Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"13279ms","larkSuccess":true}
+[2025-09-15T12:29:04.862Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:29:04.866Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:29:04.866Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:29:05.462Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:29:06.335Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:29:06.336Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:29:06.336Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:29:06.336Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:29:16.040Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:29:16.042Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":4,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":154.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:29:20.388Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:29:20.906Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:29:20.907Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"16045ms","larkSuccess":true}
+[2025-09-15T12:30:15.659Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:30:15.661Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:30:15.661Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:30:16.728Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:30:16.730Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:30:16.730Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:30:16.731Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:30:16.731Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:30:25.831Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:30:25.833Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"做了一个文本转多人有声剧的 AI 工具...","score":164.55,"category":"科技"},{"rank":2,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":3,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":4,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"},{"rank":5,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:30:29.199Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:30:29.861Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:30:29.862Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"14203ms","larkSuccess":true}
+[2025-09-15T12:37:20.431Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:37:20.433Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:37:20.433Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:37:20.561Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:37:20.580Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:37:20.580Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:37:20.581Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:37:20.581Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:37:29.421Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:37:29.423Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"做了一个文本转多人有声剧的 AI 工具...","score":164.55,"category":"科技"},{"rank":2,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":3,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":158.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":156.1,"category":"科技"}]}
+[2025-09-15T12:37:33.242Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:37:33.988Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:37:33.988Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"13557ms","larkSuccess":true}
+[2025-09-15T12:41:53.558Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:41:53.558Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:41:53.559Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:41:54.361Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:41:54.366Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:41:54.368Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:41:54.369Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:41:54.370Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:41:58.057Z] [ERROR] LLM分析失败 {"error":"Expected ':' after property name in JSON at position 86 (line 5 column 6)","title":"v2er 更新了，好耶😆"}
+[2025-09-15T12:42:03.486Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:42:03.489Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":12,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":158.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":156.55,"category":"科技"}]}
+[2025-09-15T12:42:08.366Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:42:08.902Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:42:08.903Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"15345ms","larkSuccess":true}
+[2025-09-15T12:44:56.194Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:44:56.194Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:44:56.195Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:44:57.030Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:44:57.033Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:44:57.034Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:44:57.035Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:44:57.036Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:45:05.782Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:45:05.784Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"做了一个文本转多人有声剧的 AI 工具...","score":164.55,"category":"科技"},{"rank":2,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":3,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":158.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:45:08.688Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:45:09.320Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:45:09.321Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"13127ms","larkSuccess":true}
+[2025-09-15T12:49:16.343Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:49:16.344Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:49:16.344Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:49:16.577Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:49:16.578Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:49:16.578Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:49:16.578Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:49:16.579Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:49:25.270Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:49:25.273Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"【2025 NVIDIA 创业企业展示】北京站、中卫站观众报名启动！...","score":156.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:49:29.475Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:49:30.024Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:49:30.025Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"13682ms","larkSuccess":true}
+[2025-09-15T12:51:49.706Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:51:49.715Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:51:49.715Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:51:50.387Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:51:50.388Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:51:50.389Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:51:50.390Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:51:50.390Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:52:02.147Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:52:02.149Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":160.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:52:05.533Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:52:06.269Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:52:06.270Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"16564ms","larkSuccess":true}
+[2025-09-15T12:57:05.820Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T12:57:05.822Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T12:57:05.822Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T12:57:06.273Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T12:57:06.274Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T12:57:06.274Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T12:57:06.275Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T12:57:06.275Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T12:57:14.503Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T12:57:14.505Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":13,"topTechNews":[{"rank":1,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":2,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":3,"title":"微信鸿蒙版 App 安装量突破 1500 万，该数据意味着什么？...","score":158.55,"category":"科技"},{"rank":4,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":156.55,"category":"科技"},{"rank":5,"title":"阿联酋发布能与 DeepSeek 竞争的开源模型...","score":154.55,"category":"科技"}]}
+[2025-09-15T12:57:18.510Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T12:57:19.075Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T12:57:19.076Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"13256ms","larkSuccess":true}
+[2025-09-15T13:00:09.299Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:00:09.300Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:00:09.300Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:00:09.958Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T13:00:39.314Z] [ERROR] 调用NewsNow API失败: solidot {"name":"FetchError"}
+[2025-09-15T13:00:39.316Z] [INFO] 新闻收集完成，共收集 25 条，去重后 25 条，最终 20 条
+[2025-09-15T13:00:39.317Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T13:00:39.317Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T13:00:39.318Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T13:00:48.241Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T13:00:48.243Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":16,"topTechNews":[{"rank":1,"title":"中国互联网协会：支持商务部对美模拟芯片产品及集成电路相关措施发起调查...","score":172.1,"category":"科技"},{"rank":2,"title":"RustGPT: A pure-Rust transformer LLM built from sc...","score":166.82,"category":"科技"},{"rank":3,"title":"龙芯中科：龙芯首款 GPGPU 芯片 9A1000 研发基本完成，三季度内会交付流片...","score":166.55,"category":"科技"},{"rank":4,"title":"做了一个文本转多人有声剧的 AI 工具...","score":164.55,"category":"科技"},{"rank":5,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"}]}
+[2025-09-15T13:00:53.298Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":2}
+[2025-09-15T13:00:53.721Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T13:00:53.721Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"44422ms","larkSuccess":true}
+[2025-09-15T13:02:25.193Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:02:25.196Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:02:25.196Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:02:25.780Z] [ERROR] 调用NewsNow API失败: weibo {"name":"FetchError"}
+[2025-09-15T13:02:28.096Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T13:02:28.097Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T13:02:28.097Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T13:02:28.098Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T13:02:36.625Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T13:02:36.627Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":15,"topTechNews":[{"rank":1,"title":"中国互联网协会：支持商务部对美模拟芯片产品及集成电路相关措施发起调查...","score":170.1,"category":"科技"},{"rank":2,"title":"龙芯中科：龙芯首款 GPGPU 芯片 9A1000 研发基本完成，三季度内会交付流片...","score":166.82,"category":"科技"},{"rank":3,"title":"做了一个文本转多人有声剧的 AI 工具...","score":164.55,"category":"科技"},{"rank":4,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":5,"title":"机械革命星耀 14 冰晶蓝酷睿版笔记本首销：1 Kg 重、Ultra7-255H + 32G + 1...","score":158.55,"category":"科技"}]}
+[2025-09-15T13:02:42.299Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T13:02:42.719Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T13:02:42.719Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"17526ms","larkSuccess":true}
+[2025-09-15T13:10:35.555Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:10:35.556Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:10:35.556Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:10:35.639Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 0 条
+[2025-09-15T13:10:35.667Z] [INFO] ✅ 成功收集 知乎 新闻: 0 条
+[2025-09-15T13:10:35.668Z] [INFO] ✅ 成功收集 IT之家 新闻: 0 条
+[2025-09-15T13:10:35.669Z] [INFO] ✅ 成功收集 Solidot 新闻: 0 条
+[2025-09-15T13:10:35.670Z] [INFO] ✅ 成功收集 Hacker News 新闻: 0 条
+[2025-09-15T13:10:35.672Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 0 条
+[2025-09-15T13:10:36.619Z] [WARN] NewsNow API请求失败: weibo (尝试 1/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:10:37.678Z] [WARN] NewsNow API请求失败: weibo (尝试 2/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:10:39.746Z] [WARN] NewsNow API请求失败: weibo (尝试 3/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:10:39.747Z] [ERROR] NewsNow API最终失败: weibo {"error":"[GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error","stack":"FetchError: [GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async $fetch2 (file:///Users/bytedance/trae-notice/news-scheduler/node_modules/ofetch/dist/shared/ofetch.03887fc3.mjs:316:15)\n    at async NewsCollector.fetchNewsFromMCP (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:101:34)\n    at async NewsCollector.collectNewsFromSource (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:71:26)\n    at async file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:31:30\n    at async Promise.all (index 2)\n    at async NewsCollector.collectAllNews (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:43:25)\n    at async NewsScheduler.executeNewsCollection (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:140:37)\n    at async NewsScheduler.executeNow (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:115:16)\n    at async NewsSchedulerApp.executeOnce (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:169:28)","status":500}
+[2025-09-15T13:10:39.747Z] [WARN] ❌ 收集 微博-实时热搜 新闻失败: [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:10:39.748Z] [INFO] 新闻收集完成，共收集 0 条，去重后 0 条，最终 0 条
+[2025-09-15T13:10:39.748Z] [WARN] 未收集到任何新闻
+[2025-09-15T13:12:23.199Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:12:23.200Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:12:23.200Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:12:23.235Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 0 条
+[2025-09-15T13:12:23.237Z] [INFO] ✅ 成功收集 知乎 新闻: 0 条
+[2025-09-15T13:12:23.238Z] [INFO] ✅ 成功收集 IT之家 新闻: 0 条
+[2025-09-15T13:12:23.240Z] [INFO] ✅ 成功收集 Solidot 新闻: 0 条
+[2025-09-15T13:12:23.242Z] [INFO] ✅ 成功收集 Hacker News 新闻: 0 条
+[2025-09-15T13:12:23.243Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 0 条
+[2025-09-15T13:12:24.115Z] [WARN] NewsNow API请求失败: weibo (尝试 1/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:12:25.176Z] [WARN] NewsNow API请求失败: weibo (尝试 2/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:12:27.246Z] [WARN] NewsNow API请求失败: weibo (尝试 3/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:12:27.247Z] [ERROR] NewsNow API最终失败: weibo {"error":"[GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error","stack":"FetchError: [GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async $fetch2 (file:///Users/bytedance/trae-notice/news-scheduler/node_modules/ofetch/dist/shared/ofetch.03887fc3.mjs:316:15)\n    at async NewsCollector.fetchNewsFromMCP (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:101:34)\n    at async NewsCollector.collectNewsFromSource (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:71:26)\n    at async file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:31:30\n    at async Promise.all (index 2)\n    at async NewsCollector.collectAllNews (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:43:25)\n    at async NewsScheduler.executeNewsCollection (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:140:37)\n    at async NewsScheduler.executeNow (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:115:16)\n    at async NewsSchedulerApp.executeOnce (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:169:28)","status":500}
+[2025-09-15T13:12:27.247Z] [WARN] ❌ 收集 微博-实时热搜 新闻失败: [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:12:27.248Z] [INFO] 新闻收集完成，共收集 0 条，去重后 0 条，最终 0 条
+[2025-09-15T13:12:27.248Z] [WARN] 未收集到任何新闻
+[2025-09-15T13:14:48.476Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:14:48.477Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:14:48.477Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:14:48.503Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 0 条
+[2025-09-15T13:14:48.504Z] [INFO] ✅ 成功收集 知乎 新闻: 0 条
+[2025-09-15T13:14:48.505Z] [INFO] ✅ 成功收集 IT之家 新闻: 0 条
+[2025-09-15T13:14:48.505Z] [INFO] ✅ 成功收集 Solidot 新闻: 0 条
+[2025-09-15T13:14:48.506Z] [INFO] ✅ 成功收集 Hacker News 新闻: 0 条
+[2025-09-15T13:14:48.506Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 0 条
+[2025-09-15T13:14:49.169Z] [WARN] NewsNow API请求失败: weibo (尝试 1/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:14:50.228Z] [WARN] NewsNow API请求失败: weibo (尝试 2/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:14:52.290Z] [WARN] NewsNow API请求失败: weibo (尝试 3/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:14:52.291Z] [ERROR] NewsNow API最终失败: weibo {"error":"[GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error","stack":"FetchError: [GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async $fetch2 (file:///Users/bytedance/trae-notice/news-scheduler/node_modules/ofetch/dist/shared/ofetch.03887fc3.mjs:316:15)\n    at async NewsCollector.fetchNewsFromMCP (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:101:34)\n    at async NewsCollector.collectNewsFromSource (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:71:26)\n    at async file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:31:30\n    at async Promise.all (index 2)\n    at async NewsCollector.collectAllNews (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:43:25)\n    at async NewsScheduler.executeNewsCollection (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:140:37)\n    at async NewsScheduler.executeNow (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:115:16)\n    at async NewsSchedulerApp.executeOnce (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:169:28)","status":500}
+[2025-09-15T13:14:52.291Z] [WARN] ❌ 收集 微博-实时热搜 新闻失败: [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:14:52.291Z] [INFO] 新闻收集完成，共收集 0 条，去重后 0 条，最终 0 条
+[2025-09-15T13:14:52.292Z] [WARN] 未收集到任何新闻
+[2025-09-15T13:16:43.670Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:16:43.672Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:16:43.672Z] [INFO] 开始收集新闻，共 7 个新闻源
+[2025-09-15T13:16:43.710Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 0 条
+[2025-09-15T13:16:43.712Z] [INFO] ✅ 成功收集 知乎 新闻: 0 条
+[2025-09-15T13:16:43.712Z] [INFO] ✅ 成功收集 Solidot 新闻: 0 条
+[2025-09-15T13:16:43.713Z] [INFO] ✅ 成功收集 IT之家 新闻: 0 条
+[2025-09-15T13:16:43.715Z] [INFO] ✅ 成功收集 Hacker News 新闻: 0 条
+[2025-09-15T13:16:43.716Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 0 条
+[2025-09-15T13:16:44.289Z] [WARN] NewsNow API请求失败: weibo (尝试 1/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:16:45.332Z] [WARN] NewsNow API请求失败: weibo (尝试 2/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:16:47.384Z] [WARN] NewsNow API请求失败: weibo (尝试 3/3) - [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:16:47.385Z] [ERROR] NewsNow API最终失败: weibo {"error":"[GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error","stack":"FetchError: [GET] \"http://localhost:5173/api/s?id=weibo\": 500 Internal Server Error\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async $fetch2 (file:///Users/bytedance/trae-notice/news-scheduler/node_modules/ofetch/dist/shared/ofetch.03887fc3.mjs:316:15)\n    at async NewsCollector.fetchNewsFromMCP (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:101:34)\n    at async NewsCollector.collectNewsFromSource (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:71:26)\n    at async file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:31:30\n    at async Promise.all (index 2)\n    at async NewsCollector.collectAllNews (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/news-collector.js:43:25)\n    at async NewsScheduler.executeNewsCollection (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:140:37)\n    at async NewsScheduler.executeNow (file:///Users/bytedance/trae-notice/news-scheduler/dist/services/scheduler.js:115:16)\n    at async NewsSchedulerApp.executeOnce (file:///Users/bytedance/trae-notice/news-scheduler/dist/index.js:169:28)","status":500}
+[2025-09-15T13:16:47.386Z] [WARN] ❌ 收集 微博-实时热搜 新闻失败: [GET] "http://localhost:5173/api/s?id=weibo": 500 Internal Server Error
+[2025-09-15T13:16:47.386Z] [INFO] 新闻收集完成，共收集 0 条，去重后 0 条，最终 0 条
+[2025-09-15T13:16:47.386Z] [WARN] 未收集到任何新闻
+[2025-09-15T13:18:01.390Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:18:01.392Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:18:01.392Z] [INFO] 开始收集新闻，共 6 个新闻源
+[2025-09-15T13:18:01.427Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 0 条
+[2025-09-15T13:18:01.430Z] [INFO] ✅ 成功收集 知乎 新闻: 0 条
+[2025-09-15T13:18:01.431Z] [INFO] ✅ 成功收集 IT之家 新闻: 0 条
+[2025-09-15T13:18:01.432Z] [INFO] ✅ 成功收集 Solidot 新闻: 0 条
+[2025-09-15T13:18:01.433Z] [INFO] ✅ 成功收集 Hacker News 新闻: 0 条
+[2025-09-15T13:18:01.434Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 0 条
+[2025-09-15T13:18:01.434Z] [INFO] 新闻收集完成，共收集 0 条，去重后 0 条，最终 0 条
+[2025-09-15T13:18:01.434Z] [WARN] 未收集到任何新闻
+[2025-09-15T13:20:31.985Z] [INFO] 开始执行新闻收集任务
+[2025-09-15T13:20:31.985Z] [INFO] 开始从 7 个新闻源收集新闻
+[2025-09-15T13:20:31.986Z] [INFO] 开始收集新闻，共 6 个新闻源
+[2025-09-15T13:20:32.020Z] [INFO] ✅ 成功收集 V2EX-最新分享 新闻: 5 条
+[2025-09-15T13:20:32.022Z] [INFO] ✅ 成功收集 知乎 新闻: 5 条
+[2025-09-15T13:20:32.023Z] [INFO] ✅ 成功收集 IT之家 新闻: 5 条
+[2025-09-15T13:20:32.023Z] [INFO] ✅ 成功收集 Solidot 新闻: 5 条
+[2025-09-15T13:20:32.024Z] [INFO] ✅ 成功收集 Hacker News 新闻: 5 条
+[2025-09-15T13:20:32.025Z] [INFO] ✅ 成功收集 稀土掘金 新闻: 5 条
+[2025-09-15T13:20:32.026Z] [INFO] 新闻收集完成，共收集 30 条，去重后 30 条，最终 20 条
+[2025-09-15T13:20:32.027Z] [INFO] 新闻质量过滤完成，原始 20 条，过滤后 20 条
+[2025-09-15T13:20:32.027Z] [INFO] 新闻去重完成，原始 20 条，去重后 20 条
+[2025-09-15T13:20:32.027Z] [INFO] 开始生成新闻摘要，共 20 条新闻
+[2025-09-15T13:20:40.791Z] [INFO] LLM增强分析完成，处理了 20 条新闻
+[2025-09-15T13:20:40.793Z] [INFO] 科技类新闻排序情况 {"totalNews":20,"techNewsCount":15,"topTechNews":[{"rank":1,"title":"中国互联网协会：支持商务部对美模拟芯片产品及集成电路相关措施发起调查...","score":172.1,"category":"科技"},{"rank":2,"title":"龙芯中科：龙芯首款 GPGPU 芯片 9A1000 研发基本完成，三季度内会交付流片...","score":166.55,"category":"科技"},{"rank":3,"title":"AI 赛事通 - 2025 年 8 月 AI 竞赛汇总合集...","score":162.55,"category":"科技"},{"rank":4,"title":"做了一个文本转多人有声剧的 AI 工具...","score":162.55,"category":"科技"},{"rank":5,"title":"宇树开源 UnifoLM-WMA-0 世界模型架构：可理解机器人与环境交互物理规律...","score":156.55,"category":"科技"}]}
+[2025-09-15T13:20:46.796Z] [INFO] 新闻摘要生成完成 {"totalCount":20,"topNewsCount":20,"categoriesCount":3}
+[2025-09-15T13:20:47.257Z] [INFO] 新闻摘要发送成功 {"totalNews":20}
+[2025-09-15T13:20:47.258Z] [INFO] 新闻收集任务执行完成 {"newsCount":20,"executionTime":"15273ms","larkSuccess":true}

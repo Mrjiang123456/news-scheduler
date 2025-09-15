@@ -1,0 +1,31 @@
+[Unit]
+Description=News Scheduler Service
+Documentation=https://github.com/your-repo/trae-notice
+After=network.target
+Wants=network.target
+
+[Service]
+Type=oneshot
+User=news-scheduler
+Group=news-scheduler
+WorkingDirectory=/opt/trae-notice/news-scheduler
+ExecStart=/usr/bin/npm start
+Environment=NODE_ENV=production
+Environment=PATH=/usr/bin:/usr/local/bin
+StandardOutput=append:/var/log/news-scheduler/scheduler.log
+StandardError=append:/var/log/news-scheduler/error.log
+
+# 安全设置
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/trae-notice/news-scheduler/logs
+ReadWritePaths=/var/log/news-scheduler
+
+# 资源限制
+MemoryMax=512M
+TasksMax=50
+
+[Install]
+WantedBy=multi-user.target
